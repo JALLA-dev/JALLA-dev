@@ -42,8 +42,8 @@
 
 ## 📞 **Contact Me**  
 <div align="center">
-  <p><strong>📧 Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-  <p><strong>📱 Phone:</strong> +91 XXXXX XXXXX</p>
+  <p><strong>📧 Email:</strong> <a href="mailto:sivananda.jalla@gmail.com">sivananda.jalla@gmail.com</a></p>
+  <p><strong>📱 Phone:</strong> +91 62812 24140</p>
 </div>
 
 ---
