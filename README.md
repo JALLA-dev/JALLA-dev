@@ -3,9 +3,9 @@
 # Jalla Venkata Shivananda
 ### Full-Stack Developer | Salesforce Administration | AI-Assisted Development
 
-B.Tech Computer Science, SVCET (JNTUA) — 2022 – 2026 · Kurnool, Andhra Pradesh, India
+B.Tech Computer Science, SVCET (JNTUA) — 2022 – 2026 (Graduate) · Kurnool, Andhra Pradesh, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sivananda-jalla-2bb668267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/venkata-sivananda-jalla-2bb668267))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sivananda.jalla@gmail.com)
 
 </div>
@@ -14,7 +14,7 @@ B.Tech Computer Science, SVCET (JNTUA) — 2022 – 2026 · Kurnool, Andhra Prad
 
 ## About
 
-I'm a final-year Computer Science student building full-stack applications with Java, Spring Boot, and React, with a growing focus on Salesforce Administration. I use AI-assisted development tools (Claude, Cursor, GitHub Copilot) as part of my regular workflow — to move faster, debug efficiently, and pick up new stacks with less overhead.
+I'm a Computer Science graduate (2026) building full-stack applications with Java, Spring Boot, and React, with a growing focus on Salesforce Administration. I use AI-assisted development tools (Claude, Cursor, GitHub Copilot) as part of my regular workflow — to move faster, debug efficiently, and pick up new stacks with less overhead.
 
 I'm currently looking for entry-level opportunities as a **Salesforce Administrator** or **Full-Stack Developer**.
 
